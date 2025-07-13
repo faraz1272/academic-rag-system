@@ -61,7 +61,7 @@ A RAG (Retrieval-Augmented Generation) system that processes university course P
 
 ### 1. Add Your PDF Documents
 
-Place your course PDFs in the `data/` directory or update the `DATA_PATH` variable in `main.py`.
+Place your course PDFs in the `data/` directory or update the `DATA_PATH`.
 
 ### 2. Build the Knowledge Base
 
